@@ -12,7 +12,7 @@ I recently completed CS50x, which has fueled my love for computer science and de
 Feel free to explore my repositories and connect with me!
 
 ## Let's Connect
-- [Email](alex.06dimitrov@gmail.com)
+- Email - alex.06dimitrov@gmail.com
 Happy coding! 🚀
 
 
