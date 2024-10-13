@@ -1,4 +1,19 @@
-## Hi there 👋
+
+ ##Hi there! I'm Alexander Dimitrov 👋
+Welcome to my GitHub profile! I'm an 18-year-old programmer from Bulgaria with a passion for coding and problem-solving.
+
+Skills
+Languages: Python, C, C#
+Database: SQL
+About Me
+I recently completed CS50x, which has fueled my love for computer science and development. I'm eager to learn more and tackle new challenges.
+
+Feel free to explore my repositories and connect with me!
+
+Happy coding! 🚀
+
+
+
 
 <!--
 **Zavistobit/Zavistobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
