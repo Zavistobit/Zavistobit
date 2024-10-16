@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an 18-year-old programmer from Bulgaria with a passion for coding and problem-solving. 
 
 ## Skills
-- **Languages:** Python, C, C#
+- **Languages:** Python, C, C#, Lua
 - **Database:** SQL
 
 ## About Me
